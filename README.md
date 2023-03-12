@@ -7,7 +7,3 @@ Here, I am adding leetcode problem solution, and other problems solution which I
 Also, I want to learn Git & github on daily basis.
 
 
-
-/*
-SPECIAL THANKS TO GITHUB, FOR CREATING THIS AMAZING VCS
-*/
