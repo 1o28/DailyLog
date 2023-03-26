@@ -20,7 +20,6 @@ public class BinarySearchP2 {
         System.out.print("Enter the element which we need to find: ");
         int target = sc.nextInt();
         sc.close();
-        // System.out.println(n-1);
         int index = binarySearch(arr, 0, (n-1), target);
         if(index == -1){
             System.out.println("Element not present in the array.");
